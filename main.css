@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Baloo+2:wght@500&display=swap');
 .btn-a {
-padding:10px;font-family: 'Baloo 2';cursor:pointer;background:transparent;color:#9198ab;border:2px solid #9198ab;transition:all 0.2s ease-in-out;user-select:none;backdrop-filter: blur(8px);-webkit-backdrop-filter: blur(8px);
+padding:10px;font-family: 'Baloo 2';cursor:pointer;background:transparent;color:#9198ab;border:2px solid #9198ab;transition:all 0.2s ease-in-out;user-select:none;backdrop-filter: blur(8px);-webkit-backdrop-filter: blur(8px);border-radius:0px;
 }
 .btn-a:hover {
-	background:#4d4f5723;color:#4f535e;border-color:#4f535e;transition:all 0.2s ease-in-out;
+background:#4d4f5723;color:#4f535e;border-color:#4f535e;transition:all 0.2s ease-in-out;
 }
-.btn-b {
+button {
 padding:10px;font-family: 'Baloo 2';cursor:pointer;background:rgba(37, 37, 37, 0.747);color:white;border:2px solid white;transition:all 0.2s ease-in-out;user-select:none;backdrop-filter: blur(8px);-webkit-backdrop-filter: blur(8px);border-radius:7px
 }
-.btn-b:hover {
-	background:rgba(0, 0, 0, 0.847);color:#7e7e7e;transition:all 0.2s ease-in-out;
+button:hover {
+background:rgba(0, 0, 0, 0.847);color:#7e7e7e;transition:all 0.2s ease-in-out;
 }
